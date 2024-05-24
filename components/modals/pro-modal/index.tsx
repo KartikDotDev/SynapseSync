@@ -35,7 +35,7 @@ const ProModal = () => {
             Upgrade to SynapseSync Pro Today!
           </h2>
           <p className="text-xs font-semibold text-neutral-600">
-            Explore the best of DadaRello
+            Explore the best of SynapseSync
           </p>
           <div className="pl-3">
             <ul className="text-sm list-disc">
